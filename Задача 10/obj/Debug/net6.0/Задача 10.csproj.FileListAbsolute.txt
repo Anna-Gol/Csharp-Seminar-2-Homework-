@@ -1,0 +1,15 @@
+/Users/annagolikova/С# Семинар 2/Задача 10/bin/Debug/net6.0/Задача 10
+/Users/annagolikova/С# Семинар 2/Задача 10/bin/Debug/net6.0/Задача 10.deps.json
+/Users/annagolikova/С# Семинар 2/Задача 10/bin/Debug/net6.0/Задача 10.runtimeconfig.json
+/Users/annagolikova/С# Семинар 2/Задача 10/bin/Debug/net6.0/Задача 10.dll
+/Users/annagolikova/С# Семинар 2/Задача 10/bin/Debug/net6.0/Задача 10.pdb
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.csproj.AssemblyReference.cache
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.AssemblyInfoInputs.cache
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.AssemblyInfo.cs
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.dll
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/refint/Задача 10.dll
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.pdb
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/Задача 10.genruntimeconfig.cache
+/Users/annagolikova/С# Семинар 2/Задача 10/obj/Debug/net6.0/ref/Задача 10.dll
